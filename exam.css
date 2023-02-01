@@ -1,0 +1,16 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+ text-align:center ;
+}
+.pra{
+    width: 330px;
+    margin: auto;
+    padding: 30px;
+    border: 5px solid black;
+
+}
